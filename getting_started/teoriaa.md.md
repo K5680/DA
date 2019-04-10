@@ -27,9 +27,9 @@
 
     _Notebook-tutorial:_ 
     
-    [nasan moottoridata/nasan_moottorien_elinikä.ipynb](https://gitlab.labranet.jamk.fi/data-analysis-and-ai/nasan_moottoridata/)
+    nasan moottoridata/nasan_moottorien_elinikä.ipynb
    
-    [getting started/example_notebooks/regressio-esimerkki.ipynb](../getting%20started/example_notebooks/regressio-esimerkki.ipynb)
+
    
 
     _Links:_
@@ -54,10 +54,6 @@ by Jonathan Wood](https://www.wintellect.com/creating-a-simple-linear-regression
     "lehti" kuvastaa tulosta. Polku juuresta lehteen = luokittelusäännöt. Voidaan myös kuvata joukkona assosiaatiosääntöjä.
 
 
-    _Notebook-tutorial:_ 
-    
-    [real_estate/](real_estate/)
-    
 
     _Links:_
 
@@ -77,9 +73,6 @@ by Jonathan Wood](https://www.wintellect.com/creating-a-simple-linear-regression
     Regressiossa keskiarvoa, ja moodia luokittelussa. 
 
 
-    _Notebook-tutorial:_ 
-    
-    [digitraffic/](digitraffic)
 
 
     _Links:_ 
@@ -99,11 +92,7 @@ by Jonathan Wood](https://www.wintellect.com/creating-a-simple-linear-regression
     
     _Notebook-tutorial:_ 
     
-    [nasan moottoridata/nasan_moottorien_elinikä.ipynb](https://gitlab.labranet.jamk.fi/data-analysis-and-ai/nasan_moottoridata/)
-    
-    [digitraffic/](digitraffic)
-    
-    [valmet/](valmet)
+    nasan moottoridata/nasan_moottorien_elinikä.ipynb
 
 
     _Links:_
@@ -176,8 +165,7 @@ by Jonathan Wood](https://www.wintellect.com/creating-a-simple-linear-regression
 
     _Notebook-tutorial:_ 
     
-    [earthquake/earthquake.ipynb](https://gitlab.labranet.jamk.fi/data-analysis-and-ai/earthquake/)
-
+    earthquake/earthquake.ipynb
     
     _Links:_
         
@@ -197,7 +185,7 @@ by Jonathan Wood](https://www.wintellect.com/creating-a-simple-linear-regression
 
     _Notebook-tutorial:_ 
     
-    [market_basket/marketbasket_analysis.ipynb](../market_basket/)
+    market_basket/marketbasket_analysis.ipynb
 
 
     
