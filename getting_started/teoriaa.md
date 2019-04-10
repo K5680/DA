@@ -27,7 +27,7 @@
 
     _Notebook-tutorial:_ 
     
-    nasan moottoridata/nasan_moottorien_elinikä.ipynb
+    [nasan moottoridata/nasan_moottorien_elinikä.ipynb](../nasan_moottoridata)
     
     _Links:_
     
