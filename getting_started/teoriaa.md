@@ -87,7 +87,7 @@ by Jonathan Wood](https://www.wintellect.com/creating-a-simple-linear-regression
     
     _Notebook-tutorial:_ 
     
-    nasan moottoridata/nasan_moottorien_elinikä.ipynb
+    [nasan moottoridata/nasan_moottorien_elinikä.ipynb](../nasan_moottoridata)
     
     _Links:_
 
@@ -152,7 +152,7 @@ by Jonathan Wood](https://www.wintellect.com/creating-a-simple-linear-regression
 
     _Notebook-tutorial:_ 
     
-    earthquake/earthquake.ipynb  
+    [earthquake/earthquake.ipynb](../earthquake)
     
     _Links:_
         
@@ -172,7 +172,7 @@ by Jonathan Wood](https://www.wintellect.com/creating-a-simple-linear-regression
 
     _Notebook-tutorial:_ 
     
-    market_basket/marketbasket_analysis.ipynb
+    [market_basket/marketbasket_analysis.ipynb](../miscellanous)
 
 
     
